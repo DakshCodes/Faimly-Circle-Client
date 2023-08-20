@@ -1,5 +1,5 @@
 // export const host = "https://faimly-circle-chat.onrender.com"
-export const host = "http://localhost:8100"
+export const host = "https://chat-app-kz6g.onrender.com/"
 
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
